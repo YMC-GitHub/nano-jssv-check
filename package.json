@@ -1,6 +1,6 @@
 {
   "name": "nano-jssv-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a library package to detect or check js simple value type in js runtime",
   "keywords": [
     "nano-jssv",
