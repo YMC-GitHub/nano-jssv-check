@@ -4,14 +4,14 @@
 
 file | size | gzip | brotli
 :---- | :---- | :---- | :----
-dist/main.cjs | 0.86kb | 0.45kb | 0.36kb
-dist/main.js | 0.73kb | 0.40kb | 0.31kb
-dist/main.min.cjs | 0.67kb | 0.39kb | 0.33kb
-dist/main.min.js | 0.54kb | 0.34kb | 0.28kb
-dist/main.umd.cjs | 1.22kb | 0.58kb | 0.48kb
-dist/main.umd.min.cjs | 0.79kb | 0.48kb | 0.40kb
+dist/main.cjs | 0.88kb | 0.46kb | 0.38kb
+dist/main.js | 0.75kb | 0.41kb | 0.33kb
+dist/main.min.cjs | 0.69kb | 0.41kb | 0.34kb
+dist/main.min.js | 0.57kb | 0.35kb | 0.30kb
+dist/main.umd.cjs | 1.24kb | 0.59kb | 0.49kb
+dist/main.umd.min.cjs | 0.82kb | 0.49kb | 0.41kb
 
-备注： 带有 min 标志的文件未上传
+~~备注： 带有 min 标志的文件未上传~~
 
 ## 项目背景
 
